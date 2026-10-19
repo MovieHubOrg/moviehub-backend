@@ -1,0 +1,9 @@
+[submodule "authentication-api"]
+	path = authentication-api
+	url = https://github.com/MovieHubOrg/authentication-api.git
+[submodule "movie-api"]
+	path = movie-api
+	url = https://github.com/MovieHubOrg/movie-api.git
+[submodule "media-api"]
+	path = media-api
+	url = https://github.com/MovieHubOrg/media-api.git
