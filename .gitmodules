@@ -7,3 +7,9 @@
 [submodule "media-api"]
 	path = media-api
 	url = https://github.com/MovieHubOrg/media-api.git
+[submodule "streaming-api"]
+	path = streaming-api
+	url = https://github.com/MovieHubOrg/streaming-api.git
+[submodule "auto-subtitle-service"]
+	path = auto-subtitle-service
+	url = https://github.com/MovieHubOrg/auto-subtitle-service.git

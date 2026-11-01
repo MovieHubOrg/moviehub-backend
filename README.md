@@ -97,11 +97,11 @@ Repository này tổng hợp các service backend dưới dạng **Git submodule
 | [`authentication-api`](https://github.com/MovieHubOrg/authentication-api) | Xác thực & phân quyền |
 | [`movie-api`](https://github.com/MovieHubOrg/movie-api) | Nghiệp vụ phim |
 | [`media-api`](https://github.com/MovieHubOrg/media-api) | Quản lý media |
+| [`streaming-api`](https://github.com/MovieHubOrg/streaming-api) | Chuyển mã & phát video HLS |
+| [`auto-subtitle-service`](https://github.com/MovieHubOrg/auto-subtitle-service) | Tạo & dịch phụ đề tự động |
 
 Các thành phần còn lại của hệ thống:
 
-- [streaming-api](https://github.com/MovieHubOrg/streaming-api)
-- [auto-subtitle-service](https://github.com/MovieHubOrg/auto-subtitle-service)
 - [toxic-comment-detector-service](https://github.com/MovieHubOrg/toxic-comment-detector-service)
 - [movie-recommend-service](https://github.com/MovieHubOrg/movie-recommend-service)
 - Web: [moviehub-fe](https://github.com/MovieHubOrg/moviehub-fe) · CMS: [moviehub-cms](https://github.com/MovieHubOrg/moviehub-cms) · Android: [movie-hub-app-android](https://github.com/MovieHubOrg/movie-hub-app-android)
